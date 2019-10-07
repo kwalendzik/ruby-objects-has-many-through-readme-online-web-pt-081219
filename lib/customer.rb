@@ -14,4 +14,6 @@ class Customer
     @@all
   end
   
+  def n
+  
 end
